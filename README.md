@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 <p>
-  <img src = "https://user-images.githubusercontent.com/116253963/216527042-f17bcdd7-9747-4a1f-8eb3-a66b8ede73f4.gif" width=22% height=35%>
+  <img src = "https://user-images.githubusercontent.com/116253963/216527042-f17bcdd7-9747-4a1f-8eb3-a66b8ede73f4.gif" >
 </p>
 
 ![ezgif-3-708f7b905b]()
